@@ -1,7 +1,7 @@
 main:
   - title: "Reddit NLP"
-    url: /reddit-nlp/
+    url: ./reddit-nlp/
   - title: "West Nile Model"
-    url: /west-nile/
+    url: ./west-nile/
   - title: "Contact"
-    url: /contact/
+    url: ./contact/
