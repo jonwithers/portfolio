@@ -1,6 +1,6 @@
 main:
   - title: "Reddit NLP"
-    url: ./reddit-nlp/
+    url: https://jonwithers.github.io/portfolio/reddit-nlp/
   - title: "West Nile Model"
     url: ./west-nile/
   - title: "Contact"
