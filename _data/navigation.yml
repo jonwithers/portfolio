@@ -4,4 +4,4 @@ main:
   - title: "West Nile Model"
     url: ./west-nile/
   - title: "Contact"
-    url: ./contact/
+    url: ~/contact/
