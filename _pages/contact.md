@@ -1,7 +1,6 @@
 ---
 permalink: /contact/
 layout: single
-title: Contact
 ---
 <head>
 <style>
