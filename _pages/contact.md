@@ -16,8 +16,6 @@ Anything else? Reach out!
 </form>
 
 <ul>
-
-
 {% if site.github_username %}
   <li>
     <a href="https://github.com/{{ site.github_username }}">
