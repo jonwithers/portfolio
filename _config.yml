@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data Science | Social Science | Music
 baseurl: "portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username:  jonwithers
 
 # Build settings
 markdown: kramdown
@@ -31,7 +31,7 @@ plugins:
 
 remote_theme: mmistakes/minimal-mistakes
 
-minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 include: ["_pages"]
 
