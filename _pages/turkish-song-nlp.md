@@ -6,7 +6,7 @@ header:
   overlay_color: "#FFF"
   overlay_filter: "0.5"
   overlay_image: /assets/images/turkish_background.jpg
-  overlay_caption: Photo by Burak Kebapci from Pexels
+  caption: "Photo by Burak Kebapci from Pexels"
 ---
 
 ## Natural language processing of 14,000+ Turkish songs  
