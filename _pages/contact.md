@@ -5,7 +5,7 @@ title: Contact
 ---
 
 
-Click [here](../assets/documents/resume.pdf) for my resume, or check out more of my work on [GitHub](https://www.github.com/jonwithers)!  
+Click <a href="../assets/documents/resume.pdf" target="_blank">here</a> for my resume, or check out more of my work on [GitHub](https://www.github.com/jonwithers)!  
 
 Anything else? Reach out!
 
