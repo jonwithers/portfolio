@@ -21,7 +21,9 @@ title: Contact
 </style>
 </head>
 
-Click <a href="../assets/documents/resume.pdf" target="_blank">here</a> for my resume, or check out more of my work on [GitHub](https://www.github.com/jonwithers)!  
+<p>
+
+</p>
 
 <div class="row">
  <div class="column">
