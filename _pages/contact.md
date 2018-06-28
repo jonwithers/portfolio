@@ -7,7 +7,12 @@ title: Contact
 
 Click <a href="../assets/documents/resume.pdf" target="_blank">here</a> for my resume, or check out more of my work on [GitHub](https://www.github.com/jonwithers)!  
 
-<img src="/portfolio/assets/images/github.png" alt="My helpful screenshot" href="https://github.com/jonwithers?tab=repositories">
+
+<a href="https://github.com/jonwithers?tab=repositories">
+ <img src="/portfolio/assets/images/github.png" alt="Github logo" style="width:42px;height:42px;border:0;">
+</a>
+
+<img src="/portfolio/assets/images/github.png" alt="My helpful screenshot" >
 
 Anything else? Reach out!
 
