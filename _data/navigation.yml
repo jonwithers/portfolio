@@ -7,3 +7,10 @@ main:
     url: https://jonwithers.github.io/portfolio/west-nile/
   - title: "Contact"
     url: https://jonwithers.github.io/portfolio/contact/
+
+  - title: "Misc"
+    subcategories:
+      - subtitle: "Example"
+        subhref: "#"
+      - subtitle: "Example2"
+        subhref: "#"
