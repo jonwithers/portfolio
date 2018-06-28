@@ -12,7 +12,9 @@ Click <a href="../assets/documents/resume.pdf" target="_blank">here</a> for my r
  <img src="/portfolio/assets/images/github.png" alt="Github logo" style="width:42px;height:42px;border:0;">
 </a>
 
-<img src="/portfolio/assets/images/github.png" alt="My helpful screenshot" >
+<a href="https://linkedin.com/in/jon-withers">
+ <img src="/portfolio/assets/images/linkedin.svg" alt="Github logo" style="width:42px;height:42px;border:0;">
+</a>
 
 Anything else? Reach out!
 
