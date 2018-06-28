@@ -14,3 +14,15 @@ Anything else? Reach out!
   <textarea name="body" placeholder="Let's get in touch!"></textarea>
   <input type="submit" value="Send">
 </form>
+
+<ul>
+
+
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+  </li>
+{% endif %}
+</ul>
