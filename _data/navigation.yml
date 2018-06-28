@@ -1,16 +1,9 @@
 main:
-  - title: "Turkish Song NLP"
-    url: https://jonwithers.github.io/portfolio/turkish-song-nlp
-  - title: "Reddit NLP"
-    url: https://jonwithers.github.io/portfolio/reddit-nlp/
-  - title: "West Nile"
-    url: https://jonwithers.github.io/portfolio/west-nile/
+  - title: "Projects"
+    url: https://jonwithers.github.io/portfolio/projects
+  - title: "Resume"
+    url: https://jonwithers.github.io/portfolio/assets/documents/resume.pdf
+  - title: "GitHub"
+    url: https://github.com/jonwithers
   - title: "Contact"
     url: https://jonwithers.github.io/portfolio/contact/
-
-  - title: "Misc"
-    subcategories:
-      - subtitle: "Example"
-        subhref: "#"
-      - subtitle: "Example2"
-        subhref: "#"
