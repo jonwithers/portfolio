@@ -2,6 +2,11 @@
 permalink: /reddit-nlp/
 layout: single
 title: Reddit NLP
+header:
+  overlay_color: "#FFF"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/reddit_background.jpg
+  caption: "Photo by rawpixel.com from Pexels"
 ---
 
 ## Does this work?
