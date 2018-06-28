@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 layout: single
-title: Contact
+title: Projects
 ---
 
 main:
