@@ -3,7 +3,23 @@ permalink: /contact/
 layout: single
 title: Contact
 ---
+<head>
+<style>
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+ float: left;
+ width: 33.33%;
+ padding: 5px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+ content: "";
+ clear: both;
+ display: table;
+} 
+</style>
+</head>
 
 Click <a href="../assets/documents/resume.pdf" target="_blank">here</a> for my resume, or check out more of my work on [GitHub](https://www.github.com/jonwithers)!  
 
