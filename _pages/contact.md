@@ -37,8 +37,9 @@ title: Contact
    </a>
  </div>
 </div>
+<p>
 
-Anything else? Reach out!
+</p>
 
 <form action="https://formspree.io/jon.s.withers@gmail.com" method="post">
   <input type="email" name="_replyto" placeholder="Your email">
