@@ -5,7 +5,7 @@ title: Reddit NLP
 header:
   overlay_color: "#FFF"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/reddit_background_cropped.jpg
+  overlay_image: /assets/images/reddit_background_cropped2.jpg
   caption: "Photo by rawpixel.com from Pexels"
 ---
 
