@@ -6,7 +6,7 @@ layout: single
 <style>
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
- float: left;
+ float: center;
  width: 50%%;
  padding: 5px;
 }
