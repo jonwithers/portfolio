@@ -6,8 +6,8 @@ layout: single
 <style>
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
- float: center;
- width: 50%%;
+ float: left;
+ width: 20%%;
  padding: 5px;
 }
 
