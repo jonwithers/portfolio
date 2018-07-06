@@ -16,5 +16,5 @@ main:
 ---*/
 
 <a href="https://jonwithers.github.io/portfolio/turkish-song-nlp">
-   <img src="/assets/images/turkish_background.jpg">
+   <img src="https://jonwithers.github.io/portfolio/assets/images/turkish_background.jpg">
 </a>
