@@ -9,7 +9,7 @@ title: Projects
 </a>
 
 <a href="https://jonwithers.github.io/portfolio/reddit-nlp/">
-   <img src="https://jonwithers.github.io/portfolio/assets/images/reddit_background_cropped2.jpg">
+   <img src="https://jonwithers.github.io/portfolio/assets/images/reddit_button.jpg">
 </a>
 
 <a href="https://jonwithers.github.io/portfolio/west-nile/">
