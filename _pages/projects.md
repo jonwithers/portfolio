@@ -13,9 +13,5 @@ title: Projects
 </a>
 
 <a href="https://jonwithers.github.io/portfolio/west-nile/">
-   <img src="https://jonwithers.github.io/portfolio/assets/images/chicago_background.jpg">
-</a>
-
-<a href="https://jonwithers.github.io/portfolio/contact/">
-   <img src="https://jonwithers.github.io/portfolio/assets/images/turkish_background.jpg">
+   <img src="https://jonwithers.github.io/portfolio/assets/images/chicago_button.jpg">
 </a>
