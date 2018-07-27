@@ -9,5 +9,7 @@ header:
   caption: "Photo by rawpixel.com from Pexels"
 ---
 
-## Does this work?
-Let's see, does this website work? Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Classifying Reddit posts by subreddit
+Reddit is a social media platform with a large user base and organized online communities. r/BlackPeopleTwitter and r/WhitePeopleTwitter are two such communities that are both relatively popular and contain similar content. In both of these communities, or subreddits, users post screenshots of individual tweets from Twitter and other users comment on them. This project takes the post title and top comment from thousands of posts and classifier them according to the language that they use.  
+### Results
+<![alt text](https://jonwithers.github.io/portfolio/assets/images/randomforest.png)
