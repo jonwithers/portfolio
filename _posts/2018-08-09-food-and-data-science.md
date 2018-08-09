@@ -1,3 +1,6 @@
+---
+permalink: /portfolio/food-and-data-science/
+---
 
 ## Cooking
 I love to cook. As a millenial (former) academic, cooking has been a great hobby to cultivate because:
