@@ -5,5 +5,7 @@ main:
     url: https://jonwithers.github.io/portfolio/assets/documents/resume.pdf
   - title: "GitHub"
     url: https://github.com/jonwithers
+  - title: "Blog"
+    url: https://jonwithers.github.io/portfolio/blog_index/
   - title: "Contact"
     url: https://jonwithers.github.io/portfolio/contact/
