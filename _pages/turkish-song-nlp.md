@@ -15,4 +15,4 @@ Turkish music is a subject I'm pretty familiar with. This project is an analysis
 - Do Turkish songs exhibit thematic changes over time? Do these changes line up with important political or social events?  
 
 ### Results
-Using Spark, a tool for big datasets, I was able to cluster the songs into two big categories with distinctive vocabularies in each set. I also built a model that could sort the songs into before or after 2004 with better-than-baseline accuracy. For more details, click [here](https://github.com/jonwithers/turkish_song_nlp)
+Using Spark, a tool for big datasets, I was able to cluster the songs into two big categories with distinctive vocabularies in each set. I also built a model that could sort the songs into before or after 2004 with better-than-baseline accuracy. For more details, click [here](https://github.com/jonwithers/turkish-song-nlp)
